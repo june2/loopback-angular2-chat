@@ -1,4 +1,4 @@
-# loopback-angluar2 todolist example
+# loopback-angluar2 chatting application example
 
 
 
@@ -23,7 +23,7 @@ Before starting this tutorial, you must install:
 
 ### Node server
 ```
-$ git clone https://github.com/june2/loopback-angular2-todolist.git
+$ git clone https://github.com/june2/loopback-angular2-chat.git
 $ cd loopback-angular2-todolist
 $ npm install
 $ node .
@@ -31,7 +31,10 @@ $ node .
 
 ### angular2 client
 ```
-$ cd loopback-angular2-todolist/client
+$ cd loopback-angular2-chat/client
 $ npm install
 $ ng serve
 ```
+
+## LIVE DEMO
+![Alt text](https://user-images.githubusercontent.com/5827617/30098418-d81bccb0-931c-11e7-9aa8-e331f346f61b.gif)
