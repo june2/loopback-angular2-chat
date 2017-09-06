@@ -1,7 +1,7 @@
 # loopback-angluar2 chatting application example
 
 
-## Prerequisites
+### Live demo
 ![Alt text](https://user-images.githubusercontent.com/5827617/30098418-d81bccb0-931c-11e7-9aa8-e331f346f61b.gif)
 
 
