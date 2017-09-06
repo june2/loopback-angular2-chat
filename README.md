@@ -1,6 +1,9 @@
 # loopback-angluar2 chatting application example
 
 
+## Prerequisites
+![Alt text](https://user-images.githubusercontent.com/5827617/30098418-d81bccb0-931c-11e7-9aa8-e331f346f61b.gif)
+
 
 ### Prerequisites
 Before starting this tutorial, you must install:
@@ -35,6 +38,3 @@ $ cd loopback-angular2-chat/client
 $ npm install
 $ ng serve
 ```
-
-## LIVE DEMO
-![Alt text](https://user-images.githubusercontent.com/5827617/30098418-d81bccb0-931c-11e7-9aa8-e331f346f61b.gif)
